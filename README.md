@@ -7,28 +7,6 @@ INNOVACION_SYSTEM is a comprehensive, multi-domain software suite designed to si
 
 The goal of this project is to provide a unified framework for managing diverse business processes in educational, commercial, and administrative environments. Each module is crafted to reflect realistic workflows, making it ideal for academic demonstration, training, or prototype development.
 
-🧩 Key Modules
-
-Inventory & Warehouse Management Tracks products, suppliers, categories, and stock levels with detailed summaries and entity relationships.
-Flight Booking System Captures flight schedules, passenger details, ticketing information, and airport logistics.
-Payroll Processing Computes salaries, overtime, deductions (NHIF, NSSF, PAYE), and generates payroll summaries for employees.
-Student Attendance Tracker Logs attendance records, calculates participation percentages, and generates academic reports.
-Organizational Metadata Engine Stores and retrieves structured metadata for institutions, departments, and projects with compliance attributes.
-Formal Verification (NuSMV) Validates logical properties of the system using model checking to ensure correctness and reliability.
-
-
-🛠 Technologies Used
-Languages: Java, Python, C#
-Tools: Visual Studio Code, IntelliJ IDEA, NuSMV Model Checker
-Concepts: OOP, SQL integration, metadata modeling, payroll logic, temporal logic verification
-
-📦 Use Cases
-Academic assignments and exams
-
-Prototype development for enterprise systems
-Training simulations for software engineering students
-Demonstration of formal methods in software verification
-
 
 Module 1: Stock Management System
 
