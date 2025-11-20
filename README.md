@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Mbothe250
-=======
+
 🧠 Project Description: INNOVACION_SYSTEM
 
 
