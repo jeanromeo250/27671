@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "R27671.QUESTION_5.Main",
+            "projectName": "NUWOKWIZERWA_JEAN_ROMEO_74e3fa24"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "R27671.QUESTION_4.Main",
+            "projectName": "NUWOKWIZERWA_JEAN_ROMEO_74e3fa24"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "R27671.QUESTION_3.Main",
+            "projectName": "NUWOKWIZERWA_JEAN_ROMEO_74e3fa24"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "R27671.QUESTION_2.Main",
+            "projectName": "NUWOKWIZERWA_JEAN_ROMEO_74e3fa24"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "R27671.QUESTION_1.Main",
+            "projectName": "NUWOKWIZERWA_JEAN_ROMEO_74e3fa24"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "R27671.QUESTION_6.Main",
+            "projectName": "NUWOKWIZERWA_JEAN_ROMEO_74e3fa24"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
